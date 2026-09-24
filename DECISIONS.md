@@ -2,7 +2,7 @@
 
 ## DP1 — Feed Ordering
 
-TThe public feed displays claims with the most recently submitted claims first. Claim status is displayed and can be used for filtering. Risk level is shown as a triage signal but does not determine feed ordering.
+The public feed displays claims with the most recently submitted claims first. Claim status is displayed and can be used for filtering. Risk level is shown as a triage signal but does not determine feed ordering.
 
 ## DP2 — Visibility of Unverified Claims
 
