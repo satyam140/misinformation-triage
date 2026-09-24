@@ -2,7 +2,7 @@
 
 ## DP1 — Feed Ordering
 
-The public feed uses status and recency when presenting claims rather than ordering claims by risk level alone. This prevents high-risk claims from being automatically promoted simply because they contain more warning signals.
+TThe public feed displays claims with the most recently submitted claims first. Claim status is displayed and can be used for filtering. Risk level is shown as a triage signal but does not determine feed ordering.
 
 ## DP2 — Visibility of Unverified Claims
 
